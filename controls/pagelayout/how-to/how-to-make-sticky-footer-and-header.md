@@ -77,7 +77,7 @@ In the example bellow you will see how to make the footer to be always positione
     }
 
     .footer {
-        position: absolute;
+        position: fixed;
         bottom: 0;
         width: 100%;
         height: 84px; /* Height of the footer */
